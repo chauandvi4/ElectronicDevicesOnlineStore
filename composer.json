@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "7.0",
+        "firebase/php-jwt": "^5.5",
+        "paypal/rest-api-sdk-php": "*"
+    }
+}

@@ -1,0 +1,49 @@
+[v-cloak] {
+  display: none;
+}
+
+/* START VueTable */
+
+.VuePagination {
+  margin-top: 20px;
+}
+
+.VuePagination__pagination {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.VueTables > .row > .col-md-12 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.VueTables__search {
+  min-width: 300px;
+}
+
+.VueTables__limit {
+  min-width: 80px;
+}
+
+.VueTables__sortable > .VueTables__sort-icon {
+  float: right;
+}
+
+/* END VueTable */
+
+#cart-dropdown {
+  width: 600px;
+}
+
+#cart-dropdown .cart-item-price {
+  width: 150px;
+  text-align: left;
+}
+
+#paypal-button-container {
+  width: 400px;
+  margin: auto;
+}
